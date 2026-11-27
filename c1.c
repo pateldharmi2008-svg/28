@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main()
-prinf{"hello world"};
+prinf{"hello "};
 return 0;
